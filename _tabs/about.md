@@ -12,3 +12,5 @@ order: 4
 {: .prompt-warning }
 > Created category for projects
 {: .prompt-tip }
+> Created category for software learning
+{: .prompt-tip }
