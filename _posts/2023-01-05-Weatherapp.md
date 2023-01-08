@@ -26,7 +26,7 @@ Enter a city, selecte temperature unit, and simple or detailed view.
 Choose to add to database, and open database.
 <br>
 Choose to query all or delete by OID.
-![picture](/assets/proj-images/weatherdb1.png)
+![database picture](/assets/proj-images/weatherdb1.png)
 
 ### Future Updates
         Query by parameter specified by user.
