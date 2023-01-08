@@ -5,4 +5,4 @@ category: [project]
 ---
 
 # To be updated
-```This is sample text```
+> This is sample text.
