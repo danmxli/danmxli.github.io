@@ -3,6 +3,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> THIS IS A TEST {: .filepath } 
+> UPDATES WILL BE MADE TO {: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
