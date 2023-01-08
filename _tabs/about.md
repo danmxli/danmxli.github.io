@@ -7,10 +7,10 @@ order: 4
 {: .prompt-tip }
 
 ## Welcome to my personal website.
-I am currently a first year engineering student at the University of Waterloo. From memorable captures to project prototypes, I believe in trying new things, learning from them, and showcasing them to the world. 
+>I am currently a first year engineering student at the University of Waterloo. From memorable captures to project prototypes, I believe in trying new things, learning from them, and showcasing them to the world. 
 
 ## Skills
-Programming Languages
+>Programming Languages
 >Python
 >C++
 >Java
@@ -19,13 +19,13 @@ Programming Languages
 >CSS 
 >Ruby
 
-Database Engines
+>Database Engines
 >SQLite
 
-Web Frameworks
+>Web Frameworks
 >Django 
 >Selenium 
 
-More System Software
+>More System Software
 >Git
 >Linux
