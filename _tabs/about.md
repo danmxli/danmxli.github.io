@@ -3,7 +3,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> FUTURE UPDATES WILL BE MADE TO `_tabs/about.md`{: .filepath } and it will show up on this page.
+> FUTURE UPDATES TO SHOW UP ON THIS PAGE.
 {: .prompt-tip }
 
-### My name is Dan Li.
+## My name is Dan Li.
+
+### Here are my contacts.
+```text
+code();
+address@domain.example
+```
