@@ -1,6 +1,6 @@
 ---
-title: Weather App Prototype
-date: 2023-01-05
+title: Simple Calculator App
+date: 2023-01-02
 category: [project]
 ---
 
