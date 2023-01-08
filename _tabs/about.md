@@ -10,6 +10,6 @@ order: 4
 {: .prompt-tip }
 > VARIOUS UPDATES STILL IN PROGRESS.
 {: .prompt-warning }
-> Created categories for projects and software learning
+> Created categories for projects
 {: .prompt-tip }
 
