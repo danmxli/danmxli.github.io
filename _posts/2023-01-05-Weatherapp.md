@@ -26,7 +26,10 @@ Enter a city, selecte temperature unit, and simple or detailed view.
 Choose to add to database, and open database.
 <br>
 Choose to query all or delete by OID.
-![database picture](/assets/proj-images/weatherdb1.png)
+![database picture](/assets/proj-images/weatherdb1.png) 
+
+### Project Github
+[Simple Weather App](https://github.com/danmxli/simple-weather-app)
 
 ### Future Updates
         Query by parameter specified by user.

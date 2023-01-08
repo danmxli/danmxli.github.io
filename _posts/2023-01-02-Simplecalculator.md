@@ -20,6 +20,9 @@ Simple Calculator App optimizes your workflow by computing operations on large n
 The user interface is easy on the eyes and minimal. 
 ![Picture](/assets/proj-images/calculator1.png)
 
+### Project Github
+[Simpe Calculator App](https://github.com/danmxli/calculator-app)
+
 
 ### Future Updates
         Add division, exponent, root buttons and functions.
