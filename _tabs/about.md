@@ -3,5 +3,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> UPDATES WILL BE MADE TO THIS and it will show up on this page.
+> FUTURE UPDATES WILL BE MADE TO `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
