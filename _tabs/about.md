@@ -8,3 +8,5 @@ order: 4
 {: .prompt-tip }
 > VARIOUS UPDATES STILL IN PROGRESS.
 {: .prompt-tip }
+> Created category for projects
+{: .prompt-tip }
