@@ -6,3 +6,6 @@ order: 4
 
 > Updates to be made to `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
+
+> Updates to be made to `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
