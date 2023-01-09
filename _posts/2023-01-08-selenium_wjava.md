@@ -23,9 +23,14 @@ tags: [automation]
         land on my personal website.
         print website title in terminal.
 
-[![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/5z7_qp0CWBY)
+[![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/ij4vQcOfI1U)
 
 
+### Automating web elements
+> Static dropdowns <br>
+> Handling checkbox <br>
+> Handling calendar <br>
 
+        objectives to be added.
 
-### Another concept
+More description to be added.
