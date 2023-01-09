@@ -34,11 +34,21 @@ tags: [automation]
 <br>
 
 ### Automating web elements:
+
+[Host](https://rahulshettyacademy.com/)
+<br>
 > Static dropdowns <br>
+
+        objectives to be added. 
+
 > Handling checkbox <br>
+
+        objectives to be added. 
+
 > Handling calendar <br>
 
-        objectives to be added.
+        objectives to be added. 
+
 
 More description to be added.
 <br>
