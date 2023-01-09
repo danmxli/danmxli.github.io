@@ -5,14 +5,21 @@ category: [software learning]
 tags: [automation]
 ---
 
-## Concepts
+## Concepts to learn
 - review java basics for automation.
 - design automation framework.
 - automate website with all test cases.
 - create professional test reports on the industry level.
 <br>
 
-**Below is a weblog of learned concepts. These include code snippets, screenshots, video demos**
+**Below is a weblog of learned concepts. These include code snippets, screenshots, video demos.**
+<BR>
+**Resources:**
+<br>
+[MVN REPOSITORY: Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.7.2)
+<br>
+[MVN REPOSITORY: TestNG](https://mvnrepository.com/artifact/org.testng/testng/7.7.1)
+<br>
 
 ### Run simple test in Google Chrome: 
 > IDE: Eclipse <br>
