@@ -24,9 +24,9 @@ tags: [automation]
         print website title in terminal.
 
 [![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/ij4vQcOfI1U)
+<br>
 
-
-### Automating web elements
+### Automating web elements:
 > Static dropdowns <br>
 > Handling checkbox <br>
 > Handling calendar <br>
@@ -34,3 +34,4 @@ tags: [automation]
         objectives to be added.
 
 More description to be added.
+<br>
