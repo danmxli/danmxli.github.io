@@ -2,6 +2,7 @@
 title: Landing Page for Custom Messaging Platform
 date: 2023-01-09
 category: [project]
+tags: [prototype]
 ---
 
 ### Software used
@@ -20,6 +21,6 @@ Want an aesthetic backround in your landing page alongside your messaging histor
 
 
 ### Project Github
-To be provide here.
+Work in progress. To be provided here in the future.
 
 
