@@ -35,11 +35,20 @@ tags: [automation]
 
 ### Automating web elements:
 
-[Host](https://rahulshettyacademy.com/)
+[Host](https://rahulshettyacademy.com/dropdownsPractise/)
 <br>
 > Static dropdowns <br>
 
-        objectives to be added. 
+        land on website.
+        select static dropdown CURRENCY to USD.
+        print selected value in Eclipse console.
+
+On flight booker website. Select currency to USD.
+<br>
+![Picture](/assets/proj-images/selectusd.png)
+<br>
+[![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://www.youtube.com/watch?v=OSLCpd9yaP0)
+<br>
 
 > Handling checkbox <br>
 
