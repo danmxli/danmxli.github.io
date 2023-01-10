@@ -5,14 +5,16 @@ category: [project]
 tags: [prototype]
 ---
 
-### Software used
+### Software used 
 > MONGODB <br>
 > EXPRESS <br>
 > REACT <br>
 > NODE.JS 
 
 ### Objective
-        Objective detail here.
+        Build web application with front end tools and back end tools, aka the MERN stack.
+        Database: mongoDB Atlas.
+        Hosted by Google Cloud Platform. 
         
         
         
