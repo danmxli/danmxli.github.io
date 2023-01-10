@@ -5,18 +5,20 @@ category: [software learning]
 ---
 
 ## Concepts to learn
-- implement backend to project
-- connect front end to back end
+- opensource database <br>
+- roadmap to be updated.
 <br>
 
 **Below is a weblog of learned concepts. These include code snippets, screenshots, video demos.**
 <BR>
-**Resources:**
-<br>
+**Resources:** <br>
+MongoDB <br> 
+NodeJS
+<br> 
 
 ### MongoDB GUI Demonstration: 
-> Get and update database <br>
+> Create sample collection and access on GUI. <br>
 
 
-More description to be added.
+[![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/5RPh9N_BArI)
 <br>
