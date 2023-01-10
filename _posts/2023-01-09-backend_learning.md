@@ -11,8 +11,10 @@ category: [software learning]
 
 **Below is a weblog of learned concepts. These include code snippets, screenshots, video demos.**
 <BR>
-**Resources:** <br>
-MongoDB <br> 
+**Resources:** 
+<br>
+MongoDB 
+<br> 
 NodeJS
 <br> 
 
@@ -22,3 +24,5 @@ NodeJS
 
 [![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/5RPh9N_BArI)
 <br>
+
+Sample text.
