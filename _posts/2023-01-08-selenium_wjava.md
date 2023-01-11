@@ -36,10 +36,11 @@ tags: [automation]
 ### Automate online flight booking process:
 
 [Host](https://rahulshettyacademy.com/dropdownsPractise/)
+
 <br>
 > Handling static dropdowns <br>
 
-        land on website.
+        land on demo website.
         select static dropdown CURRENCY to USD.
         print selected value in Eclipse console.
 
@@ -50,14 +51,18 @@ On flight booker website. Select currency to USD.
 [![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://www.youtube.com/watch?v=OSLCpd9yaP0)
 <br>
 
-> Handling checkboxes and schedule by date <br>
+> Handling checkboxes <br>
 
-        select checkboxes below.
-        select departure date. 
+        select checkbox "Family and Friends".
+        select checkbox "Round Trip"
+        print confirmation of found elements in Eclipse console.
 
 Below are the items to be automated:
 <br>
+![FamilyFriends](/assets/proj-images/familyfriendscheckbox.png)
+<br>
+![TripType](/assets/proj-images/roundtripcheckbox.png)
 
 
-More description to be added.
+[![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/v6P12RP3iWo)
 <br>
