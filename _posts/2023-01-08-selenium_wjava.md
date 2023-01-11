@@ -36,8 +36,6 @@ tags: [automation]
 ### Automate online flight booking process:
 
 [Host](https://rahulshettyacademy.com/dropdownsPractise/)
-
-<br>
 > Handling static dropdowns <br>
 
         land on demo website.
