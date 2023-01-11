@@ -62,7 +62,8 @@ Below are the items to be automated:
 ![FamilyFriends](/assets/proj-images/familyfriendscheckbox.png)
 <br>
 ![TripType](/assets/proj-images/roundtripcheckbox.png)
-
-
+<br>
 [![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/v6P12RP3iWo)
 <br>
+
+More to be updated soon. 
