@@ -57,9 +57,12 @@ On flight booker website. Select currency to USD.
         select checkbox "Round Trip"
         print confirmation of found elements in Eclipse console.
 
-Below are the items to be automated:
+
+Checkbox one to be selected:
 <br>
 ![FamilyFriends](/assets/proj-images/familyfriendscheckbox.png)
+<br>
+Checkbox two to be selected:
 <br>
 ![TripType](/assets/proj-images/roundtripcheckbox.png)
 <br>
