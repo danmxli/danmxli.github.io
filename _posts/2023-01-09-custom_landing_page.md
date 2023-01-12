@@ -21,7 +21,6 @@ tags: [prototype]
 This UI is new and improved, and incorporates visual aspects of digital creativity and productivity. Looking to market this custom landing page to non-profit companies and startups.
 
 
-
 ### Project Github
 Work in progress. To be provided here in the future.
 
