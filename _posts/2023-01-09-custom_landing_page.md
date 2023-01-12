@@ -1,5 +1,5 @@
 ---
-title: Landing Page for Custom Messaging Platform
+title: Messaging Platform Landing Page
 date: 2023-01-09
 category: [project]
 tags: [prototype]
@@ -8,15 +8,17 @@ tags: [prototype]
 ### Software used
 > HTML <br>
 > CSS <br>
-> JAVASCRIPT 
+> JAVASCRIPT <br>
+> React 
 
 ### Objective
         Use HTML CSS JAVASCRIPT front end web development tools to build a landing page UI.
+        Use React to implement dynamic web features.
         
 
         
 ### Description
-Want an aesthetic backround in your landing page alongside your messaging history? This UI is new and improved, and incorporates visual aspects of digital creativity and productivity.
+This UI is new and improved, and incorporates visual aspects of digital creativity and productivity. Looking to market this custom landing page to non-profit companies and startups.
 
 
 
