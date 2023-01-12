@@ -9,7 +9,7 @@ tags: [prototype]
 > HTML <br>
 > CSS <br>
 > JAVASCRIPT <br>
-> React 
+> REACT 
 
 ### Objective
         Use HTML CSS JAVASCRIPT front end web development tools to build a landing page UI.
