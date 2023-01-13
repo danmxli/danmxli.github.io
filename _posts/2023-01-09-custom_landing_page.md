@@ -12,8 +12,7 @@ tags: [prototype]
 > REACT 
 
 ### Objective
-        Use HTML CSS JAVASCRIPT front end web development tools to build a landing page UI.
-        Use React to implement dynamic web features.
+        Use HTML CSS JAVASCRIPT front end web development tools to build a landing page UI. Use React to implement dynamic web features.
         
 
         
