@@ -1,5 +1,5 @@
 ---
-title: Diet Tracking App
+title: Diet Tracking App Full Stack Project
 date: 2023-01-10
 category: [project]
 tags: [prototype]
