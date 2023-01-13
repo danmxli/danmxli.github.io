@@ -5,7 +5,7 @@ category: [project]
 tags: [prototype]
 ---
 
-### Software used 
+### Software used
 > MONGODB <br>
 > EXPRESS <br>
 > REACT <br>
