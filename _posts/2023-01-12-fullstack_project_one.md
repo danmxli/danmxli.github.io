@@ -1,26 +1,25 @@
 ---
-title: Movie Management Full Stack Project
+title: Google Books Management Website
 date: 2023-01-12
 category: [project]
 tags: [prototype]
 ---
 
 ### Software used
-> FASTAPI <br>
-> PYTHON <br>
-> POSTGRESQL <br>
-> REACT <br>
-> JAVASCRIPT <br>
-> HTML <br>
-> CSS 
+> MONGODB <br>
+> EXPRESS <br>
+> REACTJS <br>
+> NODEJS <br>
+> HTML CSS
 
 ### Objective
-        Create a full stack application.
+        Deploy interactive website enabling user to search through a database of books.
+        User can choose to rate and to save a specific item.
         
 
         
 ### Description
-This applications enables users to dynamically search for movies and archive them. Enables the user to store each in different categories to boost management.
+This website, a MERN stack project, is a three-tier architecture and one of my newest projects yet.
 
 
 ### Project Github

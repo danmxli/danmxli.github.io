@@ -1,5 +1,5 @@
 ---
-title: Diet Tracking App Full Stack Project
+title: User Diet Tracking Catalog Website
 date: 2023-01-10
 category: [project]
 tags: [prototype]
@@ -8,13 +8,13 @@ tags: [prototype]
 ### Software used
 > MONGODB <br>
 > EXPRESS <br>
-> REACT <br>
-> NODE.JS 
+> REACTJS <br>
+> NODEJS <br>
+> HTML CSS
 
 ### Objective
-        Build web application with front end tools and back end tools, aka the MERN stack.
-        Database: mongoDB Atlas.
-        Hosted by Google Cloud Platform. 
+        Deploy interactive website enabling user to add specific data about their diet.
+        User can choose to search for and edit a specific item.
         
         
         
