@@ -15,6 +15,7 @@ tags: [prototype]
 
 ### Objective
         Deploy interactive website enabling user to search through a database of books.
+        Uses AWS as cloud computing service.
         User can choose to rate and to save a specific item.
         
 
