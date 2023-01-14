@@ -10,7 +10,8 @@ tags: [prototype]
 > EXPRESS <br>
 > REACTJS <br>
 > NODEJS <br>
-> HTML CSS
+> HTML <br>
+> CSS
 
 ### Objective
         Deploy interactive website enabling user to search through a database of books.
