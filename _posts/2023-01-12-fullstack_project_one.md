@@ -2,7 +2,7 @@
 title: Google Books Management Website
 date: 2023-01-12
 category: [project]
-tags: [prototype]
+tags: [fullstack project]
 ---
 
 ### Software used

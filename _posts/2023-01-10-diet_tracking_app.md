@@ -2,7 +2,7 @@
 title: User Diet Tracking Catalog Website
 date: 2023-01-10
 category: [project]
-tags: [prototype]
+tags: [fullstack project]
 ---
 
 ### Software used

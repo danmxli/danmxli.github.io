@@ -2,7 +2,7 @@
 title: Messaging Platform Landing Page
 date: 2023-01-09
 category: [project]
-tags: [prototype]
+tags: [web development]
 ---
 
 ### Software used
