@@ -12,12 +12,18 @@ tags: [prototype]
 > REACT 
 
 ### Objective
-        Use HTML CSS JAVASCRIPT front end web development tools to build a landing page UI. Use React to implement dynamic web features.
+        Use HTML CSS JAVASCRIPT front end web development tools to build a landing page UI.
+        Use React to implement dynamic web features.
         
 
         
 ### Description
 This UI is new and improved, and incorporates visual aspects of digital creativity and productivity. Looking to market this custom landing page to non-profit companies and startups.
+
+
+### Project Development Flow
+This is where I put test builds of my project. Includes screenshots. Screen recordings.
+This is constantly updated until the build of the project is complete.
 
 
 ### Project Github
