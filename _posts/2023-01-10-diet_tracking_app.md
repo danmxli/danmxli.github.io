@@ -10,14 +10,15 @@ tags: [prototype]
 > EXPRESS <br>
 > REACTJS <br>
 > NODEJS <br>
-> HTML CSS
+> HTML <br>
+> CSS
 
 ### Objective
         Deploy interactive website enabling user to add specific data about their diet.
         User can choose to search for and edit a specific item.
         
 
-        
+
 ### Description
 To be updated.
 
