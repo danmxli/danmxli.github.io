@@ -16,11 +16,15 @@ tags: [prototype]
         Deploy interactive website enabling user to add specific data about their diet.
         User can choose to search for and edit a specific item.
         
-        
+
         
 ### Description
 To be updated.
 
+
+### Project Development Flow
+This is where I put test builds of my project. Includes screenshots. Screen recordings.
+This is constantly updated until the build of the project is complete.
 
 
 ### Project Github

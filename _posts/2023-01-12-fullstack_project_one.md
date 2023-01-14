@@ -24,5 +24,10 @@ tags: [prototype]
 This website, a MERN stack project, is a three-tier architecture and one of my newest projects yet.
 
 
+### Project Development Flow
+This is where I put test builds of my project. Includes screenshots. Screen recordings.
+This is constantly updated until the build of the project is complete.
+
+
 ### Project Github
 Work in progress. To be provided here in the future.
