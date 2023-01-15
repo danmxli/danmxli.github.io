@@ -9,9 +9,8 @@ tags: [prototype]
 > MONGODB <br>
 > EXPRESS <br>
 > REACTJS <br>
-> NODEJS <br>
-> HTML <br>
-> CSS
+> NODEJS 
+
 
 ### Objective
         Deploy interactive website enabling user to search through a database of books.
