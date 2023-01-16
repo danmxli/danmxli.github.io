@@ -67,4 +67,4 @@ Checkbox two to be selected:
 [![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/v6P12RP3iWo)
 <br>
 
-More to be updated soon. 
+Future updates to be added here.

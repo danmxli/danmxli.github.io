@@ -4,7 +4,7 @@ date: 2023-01-09
 category: [software learning]
 ---
 
-## Concepts to learn
+## Learning Objective
 - opensource database <br>
 - roadmap to be updated.
 <br>
@@ -25,4 +25,4 @@ NodeJS
 [![YouTube](/assets/blog-images/video-player.svg){: width="100" height="50" }](https://youtu.be/5RPh9N_BArI)
 <br>
 
-Sample text.
+Future updates to be added here.
