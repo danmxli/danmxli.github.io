@@ -28,6 +28,7 @@ Connected to a database with a size of approximately 337.5 MB, software improvem
 in resource fetching efficiency will enable it to become a powerful search search engine in the future.
 
 
+
 ### Staging Environment
 > Front end: Tabs <br>
 >> Added tabs from search to movie data library <br>
@@ -39,10 +40,9 @@ in resource fetching efficiency will enable it to become a powerful search searc
 
 ![Landingpage1](/assets/proj-images/mernweb1.png)
 
-> Back end: Safari JS file.
+> Back end: Safari JS file. <br>
 >> User entered in search <br>
 >> Fetch API based on user entered parameters. <br>
->> ?title <br>
 
         Returned JSON object of the fetched result shown in console.
 
